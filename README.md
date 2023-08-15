@@ -1,4 +1,3 @@
-
 <!--
 **Vasamir1/Vasamir1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -23,7 +22,6 @@
 <hr>
 <footer>
   <i>Languages I use: Python, C++, HTML, GDScript.</i>
-  
   <br><i>Some of tech I use:</i>
   <div>
     <br>
@@ -38,4 +36,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original-wordmark.svg" width=60 />
   </div>
 </footer>
-
