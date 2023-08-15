@@ -13,7 +13,7 @@
     <br>Algorithm that predicts CFD transactions at stock market with help of "WTF Math", DataScience and deep learning.</li>
   <li><strong>Gaming</strong>
     <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f579.png?v8" width=25 />
-    <br>Why should I sleep, when I can spend all nights working on my own PixelArt game?</li>
+    <br>Why should I sleep, when I can spend all night working on my own PixelArt game?</li>
   <li><strong>AI</strong>
     <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f412.png?v8" width=25 />
     <br>Come on, you know the buzz...</li>
