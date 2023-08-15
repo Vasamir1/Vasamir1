@@ -35,5 +35,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width=75 />
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original-wordmark.svg" width=75 />
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original-wordmark.svg" width=60 />
+    <img src="https://i0.wp.com/dailysoftwares.com/wp-content/uploads/2020/06/Aseprite.png?resize=303%2C329&ssl=1" width=60 />
   </div>
 </footer>
