@@ -9,13 +9,13 @@
 </div>
 <ul>
   <li><strong>Stock Market</strong>
-    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b5.png?v8" width=30/>
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b5.png?v8" width=25 />
     <br>Algorithm that predicts CFD transactions at stock market with help of "WTF Math", DataScience and deep learning.</li>
   <li><strong>Gaming</strong>
-    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f579.png?v8" width=30/>
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f579.png?v8" width=25 />
     <br>Why should I sleep, when I can spend all nights working on my own PixelArt game?</li>
   <li><strong>AI</strong>
-    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f412.png?v8" width=30/>
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f412.png?v8" width=25 />
     <br>Come on, you know the buzz...</li>
 </ul>
 <p>🔭 Currently I'm spending most of my time on Algorithms, TensorFlow, Godot and... math.</p>
