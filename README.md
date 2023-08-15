@@ -1,20 +1,10 @@
 
 <!--
 **Vasamir1/Vasamir1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
 <div id="header" align="center">
-<h3>I’m Marcin, a self-educated programmer-optimist from Poland with an unnatural hope <br>of finding the Holy Grail(s) in three places.: </h3>
+  <h3>I’m Marcin, a self-educated programmer-optimist from Poland with an unnatural hope <br>of finding the Holy Grail(s) in three places.: </h3>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhodGVwZDYzdm05bHdmcXBjNHJuY2czaHR5eWRjYzVoOTZkY3YycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
 </div>
 <ul>
@@ -29,10 +19,23 @@ Here are some ideas to get you started:
     <br>Come on, you know the buzz...</li>
 </ul>
 <hr>
-
 <p>🔭 Currently I'm spending most of my time on Algorithms, TensorFlow, Godot and... math.</p>
 
 <footer>
   <br><i>Languages I use: Python, C++, HTML, GDScript.</i>
+  
+  <br><i>Some of tech I use:</i>
+  <div>
+    <br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" width=75 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original-wordmark.svg" width=75 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original-wordmark.svg" width=75 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=75 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=75 />
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-original-wordmark.svg" width=75 />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width=75 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original-wordmark.svg" width=75 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original-wordmark.svg" width=60 />
+  </div>
 </footer>
 
