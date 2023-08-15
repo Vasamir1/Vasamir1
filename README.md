@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h3 allign="center">I’m Marcin, a self-educated programmer-optimist from Poland with an unnatural hope of finding the Holy Grail in three places.: </h3>
 <div id="header" align="center">
+<h3>I’m Marcin, a self-educated programmer-optimist from Poland with an unnatural hope of finding the Holy Grail in three places.: </h3>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhodGVwZDYzdm05bHdmcXBjNHJuY2czaHR5eWRjYzVoOTZkY3YycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
 </div>
 <ul>
