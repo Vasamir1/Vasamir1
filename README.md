@@ -18,9 +18,9 @@
     <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f412.png?v8" width=30/>
     <br>Come on, you know the buzz...</li>
 </ul>
-<hr>
 <p>🔭 Currently I'm spending most of my time on Algorithms, TensorFlow, Godot and... math.</p>
 
+<hr>
 <footer>
   <br><i>Languages I use: Python, C++, HTML, GDScript.</i>
   
