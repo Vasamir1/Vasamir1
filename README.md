@@ -22,6 +22,7 @@
 <hr>
 <footer>
   <i>Languages I use: Python, C++, HTML, GDScript.</i>
+  
   <br><i>Some of tech I use:</i>
   <div>
     <br>
