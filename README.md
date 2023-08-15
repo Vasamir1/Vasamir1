@@ -5,7 +5,7 @@
 
 <div id="header" align="center">
   <h3>I’m Marcin, a self-educated programmer-optimist from Poland with an questionable hope <br>of finding the Holy Grail(s) in three places.: </h3>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhodGVwZDYzdm05bHdmcXBjNHJuY2czaHR5eWRjYzVoOTZkY3YycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 </div>
 <ul>
   <li><strong>Stock Market</strong>
