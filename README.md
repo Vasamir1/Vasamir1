@@ -24,7 +24,7 @@
   <i>Languages I use: Python, C++, JavaScript, HTML, GDScript.</i>
   
   <br><i>Some of tech I use:</i>
-  <div>
+  <div align="center">
     <br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" width=75 />
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original-wordmark.svg" width=75 />
