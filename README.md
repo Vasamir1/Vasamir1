@@ -34,10 +34,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=75 />
     <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-original-wordmark.svg" width=75 />
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width=75 />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" width=70 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" height=70 width=70 />
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original-wordmark.svg" width=75 />
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original-wordmark.svg" width=60 />
-    <img src="https://i0.wp.com/dailysoftwares.com/wp-content/uploads/2020/06/Aseprite.png?resize=303%2C329&ssl=1" width=60 />
+    <img src="https://i0.wp.com/dailysoftwares.com/wp-content/uploads/2020/06/Aseprite.png?resize=303%2C329&ssl=1" height=60 width=60 />
     <img src="https://th.bing.com/th/id/R.057c7da3b4a13d8a3a1819484c735594?rik=58stsTkJzAb65g&riu=http%3a%2f%2fnumerique.ostralo.net%2fpygame%2fimages%2fpygame_logo.png&ehk=TlMtTL%2bIF%2be8OUGwXXkJvUl%2fRn%2bWCQInnNCrvWGI1ZQ%3d&risl=&pid=ImgRaw&r=0" height=50 width=100 />
   </div>
 </footer>
