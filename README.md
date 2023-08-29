@@ -52,6 +52,6 @@
 
 <div align="center">
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasamir1&layout=donut&langs_count=8)](https://github.com/Vasamir1/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasamir1&layout=donut&langs_count=8&show_icons=true&bg_color=00000000)](https://github.com/Vasamir1/github-readme-stats)
 
 </div>
