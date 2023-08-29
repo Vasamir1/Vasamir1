@@ -21,17 +21,15 @@
 
 <hr>
 <footer>
-  <i>Languages I use: Python, C++, JavaScript, HTML, GDScript.</i>
+  <i>Languages I use:</i>
 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width=75 />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width=75 />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width=75 />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width=75 />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original.svg" width=75 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width=50 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width=50 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width=50 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width=50 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original.svg" width=50 />
   </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasamir1&layout=compact)
 
   <br><i>Some of tech I use:</i>
   <div align="center">
@@ -51,3 +49,10 @@
     <img src="https://th.bing.com/th/id/R.057c7da3b4a13d8a3a1819484c735594?rik=58stsTkJzAb65g&riu=http%3a%2f%2fnumerique.ostralo.net%2fpygame%2fimages%2fpygame_logo.png&ehk=TlMtTL%2bIF%2be8OUGwXXkJvUl%2fRn%2bWCQInnNCrvWGI1ZQ%3d&risl=&pid=ImgRaw&r=0" height=50 width=100 />
   </div>
 </footer>
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasamir1&layout=donut)
+  
+</div>
+
