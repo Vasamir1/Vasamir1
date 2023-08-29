@@ -23,7 +23,7 @@
 <footer>
   <i>Languages I use: Python, C++, JavaScript, HTML, GDScript.</i>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasamir1)](https://github.com/Vasamir1/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasamir1&layout=compact)
   <br><i>Some of tech I use:</i>
   <div align="center">
     <br>
