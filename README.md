@@ -23,7 +23,16 @@
 <footer>
   <i>Languages I use: Python, C++, JavaScript, HTML, GDScript.</i>
 
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width=75 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width=75 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width=75 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width=75 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original.svg" width=75 />
+  </div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasamir1&layout=compact)
+
   <br><i>Some of tech I use:</i>
   <div align="center">
     <br>
