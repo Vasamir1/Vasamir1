@@ -51,8 +51,7 @@
 </footer>
 
 <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasamir1&layout=donut)
-  
-</div>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasamir1&layout=donut)
+
+</div>
