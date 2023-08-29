@@ -22,7 +22,6 @@
 <hr>
 <footer>
   <i>Languages I use: Python, C++, JavaScript, HTML, GDScript.</i>
-<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasamir1)](https://github.com/Vasamir1/github-readme-stats)
   <br><i>Some of tech I use:</i>
