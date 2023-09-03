@@ -19,6 +19,8 @@
 </ul>
 <p>🔭 Currently I'm spending most of my time on Algorithms, TensorFlow, Godot and... math.</p>
 
+<a href="https://www.kaggle.com/marcinkaczorowski"><img src="https://www.kaggle.com/static/images/site-logo.svg" width=30></a>
+
 <hr>
 <footer>
   <i>Languages I use:</i>
