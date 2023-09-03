@@ -18,9 +18,7 @@
     <br>Come on, you know the buzz...</li>
 </ul>
 <p>🔭 Currently I'm spending most of my time on Algorithms, TensorFlow, Godot and... math.</p>
-
-<a href="https://www.kaggle.com/marcinkaczorowski"><img src="https://www.kaggle.com/static/images/site-logo.svg" width=30></a>
-
+<a href="https://www.kaggle.com/marcinkaczorowski"><img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" height=25 width=25></a>
 <hr>
 <footer>
   <i>Languages I use:</i>
