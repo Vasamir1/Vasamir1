@@ -20,6 +20,7 @@
 <p>🔭 Currently I'm spending most of my time on Algorithms, TensorFlow, Godot and... math.</p>
 <a href="https://www.kaggle.com/marcinkaczorowski"><img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" height=25 width=25></a>
 <a href="https://www.facebook.com/profile.php?id=100023613645871"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/facebook/facebook-original.svg" height=25 width=25></a>
+<a href="www.linkedin.com/in/marcin-kaczorowski-b9a46b291"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" height=25 width=25?></a>
 <hr>
 <footer>
   <i>Languages I use:</i>
