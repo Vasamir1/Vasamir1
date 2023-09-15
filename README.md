@@ -58,8 +58,3 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasamir1&layout=donut&langs_count=8&show_icons=true&bg_color=00000000&hide_border=True&text_color=)](https://github.com/Vasamir1/github-readme-stats)
 
 </div>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pl_PL" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="marcin-kaczorowski-b9a46b291" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/marcin-kaczorowski-b9a46b291?trk=profile-badge">Marcin Kaczorowski</a></div>
-
-
