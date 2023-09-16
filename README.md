@@ -9,7 +9,7 @@
 <ul>
   <li><strong>Stock Market</strong>
     <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b5.png?v8" width=25 />
-    <br>Algorithm that predicts transactions at stock market with help of "WTF Math", DataScience and deep learning.</li>
+    <br>Math and deep learning.</li>
   <li><strong>Gaming</strong>
     <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f579.png?v8" width=25 />
     <br>Why should I sleep, when I can spend all night working on my own PixelArt game?</li>
