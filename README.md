@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 </div>
 <ul>
-  <li><strong>Stock Market</strong>
+  <li><strong>Math & Algorithms</strong>
     <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b5.png?v8" width=25 />
     <br>Math and deep learning.</li>
   <li><strong>Gaming</strong>
