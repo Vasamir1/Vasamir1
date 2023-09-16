@@ -9,7 +9,7 @@
 <ul>
   <li><strong>Math & Algorithms</strong>
     <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b5.png?v8" width=25 />
-    <br>Math and deep learning.</li>
+    <br>Math and deep learning, I'm curious what dark magic is still hidden there!.</li>
   <li><strong>Gaming</strong>
     <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f579.png?v8" width=25 />
     <br>Why should I sleep, when I can spend all night working on my own PixelArt game?</li>
