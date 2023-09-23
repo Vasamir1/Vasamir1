@@ -3,7 +3,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100">
   <h3>I’m self-educated programmer-optimist with an questionable hope <br>of finding the Holy Grail(s) in three places.: </h3>
 </div>
 <ul>
