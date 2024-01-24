@@ -1,7 +1,6 @@
 <!--
 **Vasamir1/Vasamir1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-google-site-verification: google1ffb7c6f79784675.html
 
 <div id="header" align="center">
   <h3>I’m self-educated programmer-optimist with an questionable hope <br>of finding the Holy Grail(s) in three places.: </h3>
